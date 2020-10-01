@@ -4,4 +4,4 @@ function modifyArray(array) {
     array.pop();
     array.push("End");
     return array;
- }
+}
