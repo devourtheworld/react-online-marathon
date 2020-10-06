@@ -13,3 +13,4 @@ const maxInterv = (...numbers) => {
     }
   return(Math.max(...diffArr));
 };
+ 
