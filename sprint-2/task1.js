@@ -12,4 +12,3 @@ const filterNums = (arr, number, parameter, filteredArr) => {
     }
     return filteredArr;
 };
-  
