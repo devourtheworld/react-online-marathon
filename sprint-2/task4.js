@@ -1,6 +1,6 @@
 const maxInterv = (...numbers) => {
   let difference = 0;
-  let diffArr = [];
+  const diffArr = [];
   if (numbers.length <= 1){
       return 0;
   }
