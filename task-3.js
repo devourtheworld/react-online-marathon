@@ -10,4 +10,4 @@ class Movie {
    }
 }
 const movie1 = new Movie ('Titanic', 'drama', 1997);
-const movie2 = new Movie ("Troya", "historical", 2004);
+const movie2 = new Movie ('Troya', 'historical', 2004);
