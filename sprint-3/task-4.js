@@ -16,7 +16,7 @@ class Student {
         return stud3;
     }
     get direction(){
-        return this._direction;
+        return this._direction; 
     }
     set direction(value){
         this._direction = value;
