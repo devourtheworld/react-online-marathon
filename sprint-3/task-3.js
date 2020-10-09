@@ -5,7 +5,7 @@ class Movie {
        this.category = category;
        this.startShow = startShow;
    }
-   watchMovie(){
+   watchMovie(){ 
        return("I watch the movie " + this.name + "!");
    }
 }
